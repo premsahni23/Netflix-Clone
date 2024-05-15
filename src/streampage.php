@@ -2,6 +2,8 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="author" content="Prem Sahni!" />
+    <!-- Do not remove or change Copyright and Author name this is under LICENSE -->
   <title>Netflix India - Watch TV Shows Online, Watch Movies Online<</title>
   <link rel="icon" href=" img/logo.png">
   <link rel="stylesheet" href="stream.css">
@@ -134,6 +136,7 @@
 
     <!-- FOOTER -->
     <footer>
+    <!-- Do not remove or change Copyright and Author name this is under LICENSE -->
       <p>Netflix Clone, Inc.</p>
       <p>Prem Sahni,2023 </p>
     </footer>

@@ -1,6 +1,8 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Prem Sahni!" />
+    <!-- Do not remove or change Copyright and Author name this is under LICENSE -->
     <link rel="stylesheet" href="src/styles.css" />
     <link
       rel="stylesheet"
@@ -334,6 +336,7 @@
       </div>
       
       </div>
+    <!-- Do not remove or change Copyright and Author name this is under LICENSE -->
       <div class="footer__row__4">
       <p>Netflix Clone, Inc.</p>
       <p>Prem Sahni,2023 </p>
